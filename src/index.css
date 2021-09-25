@@ -3,3 +3,8 @@ body {
   padding: 20px 0 0;
   font-family: sans-serif;
 }
+
+button {
+  border: none;
+  background: transparent;
+}
